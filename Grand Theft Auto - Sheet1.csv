@@ -1,0 +1,22 @@
+ID,ROOM,C1,C2,C3,STORY,NAVIGATION,WIN,LOSE,ITEM,PERSON,ANIMAL
+1,home,21,14,20,you are at home sitting on your bed,"press 1 to go to the safe house, press 2 to go to the bar and press 3 to ge to the  auto shop",0,0,0,0,0
+2,gate house,6,5,13,"you are at the gate house of my king, there is a guard there","press 1 to go to the back yard, press 2 to go to the kitchen and press 3 to the  prison",0,0,0,1,0
+3,garage,20,21,12,"you are at the garage, there are 12 cars here and the white ferrari you are here to steal","press 1 to go to the auto shop, press 2 to go to the safe house and press 3 to ge to the  police station",0,0,1,0,0
+4,king room,3,5,10,"you are in mr king's room, there is a car keys on the table","press 1 to go to the garage, press 2 to go to the kitchen and press 3 to ge to the  room 2",0,0,1,0,0
+5,kitchen,6,8,17,"you are in the kitchen, there are fresh groceries on the counter top, and a puppy running around","press 1 to go to the backyard, press 2 to go to the room 1 and press 3 to ge to room 2",0,0,0,0,1
+6,back yard,5,8,17,"you are at the back of mr kings house, there is a pool there","press 1 to go to the kitchen, press 2 to go to room 1 and press 3 to ge to room 2",0,0,0,0,0
+7,gun shop,9,15,21,"you are at the gun shop, there are different guns for sale, there is a man there selling the guns","press 1 to go to tims store, press 2 to go to mikes house and press 3 to ge to the  safe house",0,0,0,1,0
+8,room 1,17,5,6,"you are now in room one in mr king's house, there is nothing here","press 1 to go to room 2, press 2 to go to the kitchen and press 3 to ge to the  backyard",0,0,0,0,0
+9,tim store,15,16,21,"you are at tim store, there are ropes for sale around, there are base ball bats ","press 1 to go to mikes house, press 2 to go to ruppy store and press 3 to ge to the  safe house",0,0,1,0,0
+10,roof top,4,18,,"you are on the roof top deck of my kings house, you can see the entier mansion","press 1 to go to the king room, press 2 to room 3 ",0,0,0,0,0
+11,resturant,21,14,1,"you are at the resturant, there are people eating","press 1 to go to the safe house, press 2 to go to the bar and press 3 to go home",0,0,0,0,0
+12,police station,,,,you are now in the police station because you were you turned your self in, ,0,1,0,0,0
+13,prison,,,,you are now in prison because you were arrested, ,0,1,0,0,0
+14,bar,11,21,1,"you are at the bar, there are people drinking","press 1 to go to the resturant, press 2 to go to the safe house and press 3 to go home",0,0,0,1,0
+15,mike's house,21,7,9,"you are at mike's house, mike is sitting on the couch","press 1 to go to the safe house, press 2 to go to gun shop and press 3 to go tim store",0,0,0,1,0
+16,ruppy store,21,1,15,"you are at ruppy store, there are ropes for sale around, there are base ball bats ","press 1 to go to the safe house, press 2 to go home and press 3 to go mikes house",0,0,0,1,0
+17,room 2,18,6,5,"you are now in room 2 in mr king's house, there is nothing here","press 1 to go to room 3, press 2 to go to the back yard and press 3 to ge to the  kitchen",0,0,0,0,0
+18,room3,10,17,4,"you are now in room  3 in mr king's house, there is nothing here just a bed","press 1 to go tothe roof top, press 2 to go to room 2 and press 3 to ge to the  king room",0,0,0,0,0
+19,sugar bridge,,,,"you are under the sugar bridge, the car buyer is waiting", ,1,0,0,0,0
+20,auto shop,1,21,19,"you are at the auto shop there are different car being painted and repaired, there is a man man asking questions","press 1 to go home, press 2 to go to the safe house and press 3 to ge to the sugar bridge",0,0,0,1,0
+21,safe house,15,20,2,"you are at your safe house where you have been planning a heist, joe who is helping withe the plan is there","press 1 to go to the mikes house, press 2 to go to the auto shop and press 3 to ge to the gate house",0,0,0,1,0
